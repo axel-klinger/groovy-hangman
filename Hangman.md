@@ -11,7 +11,7 @@ Galgenraten
 |
 -----
 
-###, -a-s, aegiks
+Gesucht: haus -> _ _ _ _ -> "a" -> _ a _ _
 
 ```
 
@@ -25,6 +25,23 @@ Ziel/Aufgabe
 * wenn kein Unterstrich mehr existiert, habe ich gewonnen
 * wenn ich 9 Strafpunkte habe (die Linien im Männchen oben zusammengefasst), habe ich verloren
 * wenn ich das falsche Wort rate habe ich verloren
+
+```
+Axels-MBP-2:hangman axelklinger$ groovy Hangman.groovy
+---- 0
+Buchstabe? w
+---- 1
+Buchstabe? a
+-a-- 1
+Buchstabe? u
+-au- 1
+Buchstabe? s
+-aus 1
+Buchstabe? g
+-aus 2
+Buchstabe? h
+Gewonnen: haus
+```
 
 => jeder dieser Punkte wird ein (vollständiges!) Feature/Commit mit
 * Beschreibung/Aufgabe (+ Video)
