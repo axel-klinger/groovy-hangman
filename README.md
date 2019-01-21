@@ -43,14 +43,3 @@ Buchstabe? h
 Gewonnen: haus
 ```
 
-=> jeder dieser Punkte wird ein (vollständiges!) Feature/Commit mit
-* Beschreibung/Aufgabe (+ Video)
-* Moellierung (+ Video)
-* Umsetzung/Lösung + Commits + Videos
-* ... + Theorie!
-* ... + Methodik?! - s.a. Curriculum
-
--> der Computer verwendet für die Auswahl des Wortes per random (Zufall) eine Liste von Wörtern
-
-*Anmerkung:*
-Eine saubere Problembeschreibung ist das A und O. Wenn ihr das könnt, werdet ihr zu guten Problemlösern - und die werden immer gebraucht!-)
